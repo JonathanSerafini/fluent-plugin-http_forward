@@ -35,6 +35,7 @@ gem 'fluent-plugin-http_forward'
     flush_interval 60           # optional, maximum time between flush
     flush_thread_count 1        # optional, async threads to flush buffer
   </buffer>
+```
 
 ## Status
 
